@@ -8,10 +8,9 @@
 
 Тем не менее все работает. 
 
-Название образа в докерхабе dshiltsov/fastapi
-Команда запуска:
+Название образа в докерхабе <b>dshiltsov/fastapi</b>
 
-$docker run -p 5555:5555 dshiltsov/fastapi 
+Команда запуска: <b>$docker run -p 5555:5555 dshiltsov/fastapi</b> 
 
 после запуска он будет отзываться например на запросы 
 * GET http://127.0.0.1:5555/dog?kind=dalmatian - запрос требующий обращения к базе
